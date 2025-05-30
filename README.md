@@ -56,5 +56,3 @@ Change the phone number in the code:
 ```cpp
 gsm.println("AT+CMGS=\"+91XXXXXXXXXX\"");
 
-## license
-This project is open-source and free to use under the MIT License.
